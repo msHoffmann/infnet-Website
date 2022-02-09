@@ -1,0 +1,64 @@
+* {
+    box-sizing: border-box;
+  }
+
+body {
+  font-family: 'Roboto', Arial, Helvetica, sans-serif;
+  color:rgb(250, 246, 246);
+  background: rgb(7, 16, 79);}
+
+h1 {
+  font-family: 'Roboto', Arial, Helvetica, sans-serif;
+  color:rgb(238, 238, 238);
+  text-align: center;
+  font-size: 55px;
+  position: relative;
+  }
+
+h2 {
+  font-family: 'Roboto', Arial, Helvetica, sans-serif;
+  color:rgb(242, 242, 247);}
+  
+h3 {
+  font-family: 'Roboto', Arial, Helvetica, sans-serif;
+  color:rgb(246, 246, 250);}    
+  
+h4 {
+  font-family: 'Roboto', Arial, Helvetica, sans-serif;
+  color:crimson;}
+
+h5 {
+  font-family: 'Roboto', Arial, Helvetica, sans-serif;
+  color:rgb(234, 234, 241);}
+
+.imagem {
+  margin: auto;
+  display: block;
+  height: auto;
+  width: 700px;
+  padding: 0px;
+  max-width:100%;}
+
+p {
+  line-height: 30px;}
+
+p::first-letter {
+  font-size: 20px;
+}
+li {
+  line-height: 30px;}
+
+.fixo {
+  background: rgb(224, 8, 127);
+  position: fixed;
+  right: 0;
+  left: 0;
+  top: 0;
+  margin: 0;}
+
+footer {
+  background-color: #777;
+  padding: 5px;
+  text-align: center;
+  color: white;
+  }
