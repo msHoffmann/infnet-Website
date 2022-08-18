@@ -3,7 +3,11 @@
 )](https://github.com/msHoffmann/infnet-website/blob/main/LICENSE)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555)](https://github.com/msHoffmann/)
 
-
+<br />
+<div align="center">
+    <img src="github/header-readme.png" alt="Logo Eventos de Boardgames" />
+  </a>
+  
 <br />
 <div align="center">
   <h3 align="center">Semana de Introdução Bootcamp Infnet</h3>
